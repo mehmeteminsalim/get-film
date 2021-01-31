@@ -4,7 +4,6 @@
   "description": "Fetch movies with the API",
   "main": "index.js",
   "scripts": {
-    "devStart" : "nodemon index.js",
     "start": "node index.js"
   },
   "keywords": ["api","film","ejs","express","nodejs","axios","body-parser"],
